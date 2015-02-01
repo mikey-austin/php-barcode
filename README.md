@@ -28,7 +28,9 @@ Returntype
 -----------
 src returns a base64 png encoded string, ready to be inserted into an image tags src attribute, eg:
 
+```html
 <img src="<?php echo $returned_content; ?>" />
+```
 
 
 base64 returns the png image as a base64 encoded string
