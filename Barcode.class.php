@@ -1,5 +1,14 @@
 <?php
-
+/*
+ *  Updated by Magnus Flor
+ *
+ *  Forked from
+ *  Author:  David S. Tufts
+ *  Company: Rocketwood.LLC
+ *	  www.rocketwood.com
+ *  Date:	05/25/2003
+ */
+ 
 class Barcode {
 
 	const CODE25 = "code25";
